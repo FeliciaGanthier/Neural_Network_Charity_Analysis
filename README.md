@@ -19,22 +19,22 @@ Data Preprocessing
 Compiling, Training and Evaluating the Model
   •	Original Evaluation Accuracy: 73%
 
-![Image OG Eval] [https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/OG%20Eval.png]
+![Image OG Eval](https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/OG%20Eval.png)
 
   •	Optimization Attempt 1 Evaluation Accuracy: 63%
     o	Since a Rule of Thumb is increase the number of neurons in the hidden layer by two – three times, we increased the number of input features by three. 
 
-![Image Opt Attempt 1] [https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/Opt%20Attempt%201.png]
+![Image Opt Attemp 1](https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/Opt%20Attempt%201.png)
 
   •	Optimization Attempt 2 Evaluation Accuracy: 73%
     o	In this attempt, we increased the number of neurons in each hidden layer by 20
 
-![Image Opt Attempt 2] [https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/Opt%20Attempt%202.png]
+![Image Opt Attempt 2](https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/Opt%20Attempt%202.png)
 
   •	Optimization Attempt 3 Evaluation Accuracy: 72%
     o In our final attempt, we added an additional hidden layer
        
-![Image Opt Attempt 3] [https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/Opt%20Attempt%203.png]
+![Image Opt Attempt 3](https://github.com/FeliciaGanthier/Neural_Network_Charity_Analysis/blob/main/Opt%20Attempt%203.png)
 
 #####**Summary**
 
